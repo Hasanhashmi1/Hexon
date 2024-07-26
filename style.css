@@ -4,3 +4,31 @@
 .text-center a{
     text-decoration: none;
 }
+
+
+
+.width-100{
+    width: 100%;
+    margin-top: 1.5em ;
+}
+.width-100 textarea{
+    width: 1280px;
+    height: 297px;
+}
+.carousel-item img{
+    height: 50vh;
+}
+
+.carousel-container{
+    margin-top: 1.5em ;
+}
+.carousel-inner{
+    border-radius: 10px;
+}
+
+.btn-outline-primary:focus{
+    box-shadow: none !important;
+}
+
+
+
