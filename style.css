@@ -29,6 +29,19 @@
 .btn-outline-primary:focus{
     box-shadow: none !important;
 }
+.btnHolder{
+    width: 100%;
+    margin-top: 2em;
+}
 
-
+.spanHolder{
+    width: 100%;
+    width: fit-content;
+    padding: 10px;
+    height: fit-content;
+    border-radius: 10px;
+    text-align: justify;
+    box-shadow: 0px 0px 5px 2px #e7e1e1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
