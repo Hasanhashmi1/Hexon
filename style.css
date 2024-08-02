@@ -84,6 +84,12 @@
     height: 30em;
     object-fit: cover;
 }
+.card-section-images{
+    width: 100%;
+    overflow: hidden;
+    height: 15em;
+    object-fit: cover;
+}
 
 @media (max-width:768px){
     .carousel-images{
