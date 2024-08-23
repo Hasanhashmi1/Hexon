@@ -1,0 +1,58 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+}
+
+
+.margin-res-2 {
+    margin-top: 1.5em;
+}
+
+
+.roboto-mono {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 100px;
+    color: darkorchid;
+}
+
+.clockContainer {
+    gap: 5em;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.flagDiv {
+    gap: 1.5em;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.flagDiv div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.flagDiv div h3 {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

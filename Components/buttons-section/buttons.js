@@ -32,3 +32,9 @@ let bulb = document.getElementById("bulb");
 btnBulb.addEventListener("click" , ()=>{
     bulb.classList.toggle("active");
 });
+
+function throwError() {
+    prompt("what is the problem?")
+    alert("Problem submitted");
+
+}
